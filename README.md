@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I was born in Vancouver and am currently pursuing a degree in Computer Science at the University of Victoria. My passion for exploring our beautiful parks and mountains in B.C. matches my excitement for technology and science. When not out in nature, I'm studying up on the latest Artificial Intelligence research or orchestrating events for the UVicAI club along with other executives.
+
+As a co-host of our upcoming university-wide Hackathon on February 3rd, I'm thrilled to showcase a custom visualization tool and tournament-hosting pipeline we've developed. Additionally, I'm working with the club on a reinforcement-learning wildfire prevention simulation, set to be presented at the Canadian Undergraduate Conference on AI (CUCAI) in Ontario this March.
+
+I'm actively seeking a summer co-op opportunity to broaden my horizons in software development. My areas of interest span from gaming and web development to data science and finance. I am fuelled by a hunger for learning and belief that any process can be improved.
+
+I'm passionate about many sub-disciplines in my Computer Science studies and particularly enjoy engaging with others who share my enthusiasm for the future of AI. Learning from practical experience and individual mentorship is my preferred path to personal and professional growth.
+
+Finally, bringing positive energy to the workplace is something I value. Whether it's through Spotify playlists or by collaborating with colleagues, my aim is to create an upbeat, productive environment.
+
 <!--
 **NathanPannell/NathanPannell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
