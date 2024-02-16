@@ -19,6 +19,7 @@ I'm a full-time student at the University of Victoria, part-time web wizard, and
 - **GitHub**: You're here already! Check out my repos and let's collaborate.
 - **LinkedIn**: [Nathan Pannell](https://www.linkedin.com/in/nathanpannell)
 - **Email**: [Reach Out!](mailto:contact@nathanpannell.com)
-- **Portfolio**: [Under Construction 🚧](https://nathanpannell.com) 
+- **Resume**: [Click Here](https://drive.google.com/file/d/1OmVNs-EOY39-Ryirxfm3XtcunUtwhtcK/view?usp=sharing)
+<!-- - **Portfolio**: [Under Construction 🚧](https://nathanpannell.com) -->
 
 Thanks for stopping by! Feel free to reach out if you want to chat about technology, the universe, or your favourite views in Victoria. 🚀👨‍💻⛰️
