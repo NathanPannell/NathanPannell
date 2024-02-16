@@ -1,26 +1,24 @@
-### Hi there 👋
+# Hello, World! I'm Nathan Pannell 👋
 
-I was born in Vancouver and am currently pursuing a degree in Computer Science at the University of Victoria. My passion for exploring our beautiful parks and mountains in B.C. matches my excitement for technology and science. When not out in nature, I'm studying up on the latest Artificial Intelligence research or orchestrating events for the UVicAI club along with other executives.
+## 🚀 About Me
 
-As a co-host of our upcoming university-wide Hackathon on February 3rd, I'm thrilled to showcase a custom visualization tool and tournament-hosting pipeline we've developed. Additionally, I'm working with the club on a reinforcement-learning wildfire prevention simulation, set to be presented at the Canadian Undergraduate Conference on AI (CUCAI) in Ontario this March.
+I'm a full-time student at the University of Victoria, part-time web wizard, and a budding AI and data science enthusiast. When I'm not buried in code, you can find me hiking ⛰️, speedcubing 😱, or listening to [musicals](https://open.spotify.com/playlist/0ucUSWfbG0sMEirkLWeAXw?si=9a730b74e46b4eaf) 💃.
 
-I'm actively seeking a summer co-op opportunity to broaden my horizons in software development. My areas of interest span from gaming and web development to data science and finance. I am fuelled by a hunger for learning and belief that any process can be improved.
+- 🎓 Pursuing a degree in Computer Science with a passion for solving puzzles.
+- 💻 Currently diving deep into the realm of machine learning with the UVic AI club.
+- 🤖 Always on my best behaviour around our soon-to-be AI overlords (Morning ChatGPT! 🫡).
 
-I'm passionate about many sub-disciplines in my Computer Science studies and particularly enjoy engaging with others who share my enthusiasm for the future of AI. Learning from practical experience and individual mentorship is my preferred path to personal and professional growth.
+## 🛠️ Tech Stack
 
-Finally, bringing positive energy to the workplace is something I value. Whether it's through Spotify playlists or by collaborating with colleagues, my aim is to create an upbeat, productive environment.
+- **Frontend**: React, TailwindCSS - Creating practical visualizations for fascinating projects.
+- **AI & Data Science**: Python, PyTorch, NumPy - Stochastically descending into integration hell.
+- **Tools & Platforms**: GitHub, Vercel - Where you (yes you!) can view some of my work.
 
-<!--
-**NathanPannell/NathanPannell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Get in Touch
 
-Here are some ideas to get you started:
+- **GitHub**: You're here already! Check out my repos and let's collaborate.
+- **LinkedIn**: [Nathan Pannell](https://www.linkedin.com/in/nathanpannell)
+- **Email**: [Reach Out!](mailto:contact@nathanpannell.com)
+- **Portfolio**: [Under Construction 🚧](https://nathanpannell.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Feel free to reach out if you want to chat about technology, the universe, or your favourite views in Victoria. 🚀👨‍💻⛰️
