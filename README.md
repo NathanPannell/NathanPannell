@@ -8,11 +8,11 @@ I'm a full-time student at the University of Victoria, part-time web wizard, and
 - 💻 Currently diving deep into the realm of machine learning with the UVic AI club.
 - 🤖 Always on my best behaviour around our soon-to-be AI overlords (Morning ChatGPT! 🫡).
 
-## 🛠️ Tech Stack
+## 🕸️ Tech Stack
 
-- **Frontend**: React, TailwindCSS - Creating practical visualizations for fascinating projects.
-- **AI & Data Science**: Python, PyTorch, NumPy - Stochastically descending into integration hell.
-- **Tools & Platforms**: GitHub, Vercel - Where you (yes you!) can view some of my work.
+- 🖥️ **Frontend**: React, TailwindCSS - Creating practical visualizations for fascinating projects.
+- 🧠 **AI & Data Science**: Python, PyTorch, NumPy - Stochastically descending into integration hell.
+- 🛠️ **Tools & Platforms**: GitHub, Vercel - Where you (yes you!) can view some of my work.
 
 ## 📫 Get in Touch
 
