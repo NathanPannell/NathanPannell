@@ -11,7 +11,7 @@ Outside of work, I love hiking ⛰️, [speedcubing](https://en.wikipedia.org/wi
 ## 🕸️ Tech Stack
 
 - 🖥️ **Frontend**: React, Tailwind - Creating practical visualizations and effective UI/UX.
-- 🧠 **AI & Data Science**: Python, NumPy, Power BI - Stochastically descending into ML.
+- 🧠 **Data Science**: Python, NumPy, Power BI - Crunching numbers to generate actionable insights 🔍.
 
 ## 📫 Get in Touch
 
