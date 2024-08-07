@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 I'm a full-time student at the University of Victoria with experience in data science and process optimization.
-Outside of work, I love hiking ⛰️, [speedcubing 🤗](https://en.wikipedia.org/wiki/Speedcubing), and listening to music on Spotify (1600+ liked songs and growing 💃).
+Outside of work, I love hiking ⛰️, [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) 🤗, and listening to music on Spotify (1600+ liked songs and growing 💃).
 
 - 🎓 Pursuing a degree in Computer Science with a business minor.
 - 💻 Diving into the field of applied machine learning with the UVic AI club.
