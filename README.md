@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a full-time student at the University of Victoria with experience in data science and process optimization.
-Outside of work, I love hiking ⛰️, [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) 🤗, and listening to music on Spotify (1600+ liked songs and growing 💃).
+I'm a full-time student at the University of Victoria with experience in data science, fullstack development, and process optimization.
+Outside of work, I love hiking ⛰️, [speedcubing](https://en.wikipedia.org/wiki/Speedcubing) 🤗, and listening to music on Spotify (1900+ liked songs and growing 💃).
 
 - 🎓 Pursuing a degree in Computer Science with a business minor.
 - 💻 Diving into the field of applied machine learning with the UVic AI club.
@@ -11,7 +11,8 @@ Outside of work, I love hiking ⛰️, [speedcubing](https://en.wikipedia.org/wi
 ## 🕸️ Tech Stack
 
 - 🖥️ **Frontend**: React, Tailwind - Creating practical visualizations and effective UI/UX.
-- 🧠 **Data Science**: Python, NumPy, Power BI - Crunching numbers to generate actionable insights 🔍.
+- 💾 **Backend**: Flask, Postgres - Building efficient systems to harmoniously service users
+- 🧠 **Data Science**: Pandas, NumPy, Power BI - Crunching numbers to generate actionable insights 🔍.
 
 ## 📫 Get in Touch
 
