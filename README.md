@@ -13,3 +13,4 @@ Outside of work, I enjoy building Spotify playlists, solving Rubik's cubes, and 
 - **GitHub**: You're here already! Check out my repos and let's collaborate 🤝.
 - **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/nathanpannell)
 - **Email**: [Get In Touch](mailto:contact@nathanpannell.com)
+- **Resume**: [PDF Here](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
