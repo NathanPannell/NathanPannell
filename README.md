@@ -1,6 +1,4 @@
-# Hey! I'm Nathan 👋
-
-## 🤗 A Bit About Me
+## Hey! I'm Nathan 👋
 
 2025 is my 4th year as a CS student at the University of Victoria, and my first as the president of the UVic AI Club!<br>
 
@@ -8,4 +6,4 @@ My professional background is in process optimization and automation, but my pas
 
 Outside of work, I enjoy building Spotify playlists, solving Rubik's cubes, and visiting beaches.<br>
 
-[Resume PDF](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
+[Resume 🪷](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
