@@ -8,9 +8,4 @@ My professional background is in process optimization and automation, but my pas
 
 Outside of work, I enjoy building Spotify playlists, solving Rubik's cubes, and visiting beaches.<br>
 
-## 📫 Get in Touch
-
-- **GitHub**: You're here already! Check out my repos and let's collaborate 🤝.
-- **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/nathanpannell)
-- **Email**: [Get In Touch](mailto:contact@nathanpannell.com)
-- **Resume**: [PDF Here](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
+[Resume PDF](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
