@@ -1,7 +1,7 @@
 ## Hey! I'm Nathan 👋
 
 I am in my 4th year as a CS student at the University of Victoria!<br>
-Currently, I am working with Java and Oracle DB at ICBC as a Software Developer.
+Currently, I am working with Java and Oracle DB at ICBC as a Software Engineer.
 
 My background primarily consists of backend softwere development, but my passion is for applied machine learning.<br>
 Finding truly helpful use cases for state-of-the-art AI is my favorite problem to solve.
