@@ -9,5 +9,7 @@ Finding truly helpful use cases for state-of-the-art AI is my favorite problem t
 Outside of work, I enjoy Spotify, Rubik's cubes, and exploring nature.
 
 [Resume](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
+
 [Website](https://nathanpannell.com)
+
 [Email](mailto:contact@nathanpannell.com)
