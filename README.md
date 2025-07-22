@@ -1,12 +1,13 @@
 ## Hey! I'm Nathan 👋
 
-I am in my 4th year as a CS student at the University of Victoria!<br>
-Currently, I am working with Java and Oracle DB at ICBC as a Software Engineer.
+I've been builder since my first [Hour of Code](https://hourofcode.com/ca) at age 10.
 
-My background primarily consists of backend softwere development, but my passion is for applied machine learning.<br>
-Finding truly helpful use cases for state-of-the-art AI is my favorite problem to solve.
+Currently, I'm a Software Engineer at ICBC and a CS student at the University of Victoria.
 
-Outside of work, I enjoy Spotify, Rubik's cubes, and exploring nature.
+My bread and butter is REST APIs, SQL, and backend automation.<br>
+I am also dedicating my free time to build interesting projects which encapsulate anything from machine learning experiments to deployed full-stack applications.
+
+Outside of code, I enjoy [speedcubing](https://www.youtube.com/watch?v=0rfX6iD0uIE), [hiking](https://www.instagram.com/toomanynathans), and [making Spotify playlists](https://open.spotify.com/user/n8tewolf)
 
 [Resume](https://github.com/NathanPannell/NathanPannell/blob/main/Resume.pdf)
 
