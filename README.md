@@ -1,7 +1,7 @@
 ## Hey, I'm Nathan 👋
-#### I've been building software since my first [Hour of Code](https://hourofcode.com/ca) at age 10. Now I do it for a living.
+#### I've been building software since my first [Hour of Code](https://hourofcode.com/ca) at age 10. Now I get to do it for a living!
 
-These days I'm focused on applied AI: shipping small, opinionated products and sharing what I learn here and at [my blog](https://www.nathanpannell.com). Recent builds include [Commons](https://github.com/NathanPannell/Commons), a Claude-powered networking tool for early-career professionals, and [Echo](https://github.com/NathanPannell/Accountability-Bot), a proactive micro-journaling bot that checks in with you instead of waiting to be asked.
+These days I'm focused on applied AI: shipping small, opinionated products and sharing what I learn here and at [my blog](https://www.nathanpannell.com). Recent builds include [Commons](https://github.com/NathanPannell/commons), a Claude-powered networking tool for early-career professionals, and [Go Fetch](https://github.com/NathanPannell/go-fetch), a semantic search system (RAG) designed with scalable microservice architecture.
 
 Before this, I built backend infrastructure at ICBC, BCI, and Teck. I've shipped to real production and been on the hook when it broke, so I build systems meant to survive contact with real users.
 
