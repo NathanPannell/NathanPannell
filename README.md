@@ -1,5 +1,7 @@
-I’m a backend engineer based in Victoria. At ICBC, I shipped a driver-licensing service to production across more than 100 offices and worked on the monitoring around it.
+## Hey, I’m Nathan.
 
-Now I’m building apps of my own and getting deeper into AI-assisted software development.
+I build products that make life more fun.
 
-Away from my computer, I spend a lot of time hiking around Vancouver Island. So far: the West Coast Trail, Cape Scott, Juan de Fuca, and the Sunshine Coast Trail.
+Right now, that means [Parkdex](https://github.com/NathanPannell/parkdex), a Pokédex for Vancouver Island parks, and figuring out what coding agents are actually good for.
+
+Based in Victoria. Let’s grab boba by the wharf sometime :)
